@@ -32,3 +32,6 @@ breakfree-ai/
 ├── ai-engine/        # ML model training scripts & datasets
 ├── docs/             # Technical documentation & architecture diagrams
 └── README.md         # Project overview
+
+
+Figma - https://www.figma.com/design/yAe83Yx7mnq7f3GMp5Nh3z/Untitled?node-id=3-636&t=MAWLFzHmIh8nRnXd-1
