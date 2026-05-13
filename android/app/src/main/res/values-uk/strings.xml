@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Health Tracker</string>
+
+    <string name="nav_home">Головна</string>
+    <string name="nav_community">Спільнота</string>
+    <string name="nav_analysis">Аналіз</string>
+    <string name="nav_profile">Профіль</string>
+
+    <string name="home_title">Тримай себе в руках</string>
+    <string name="home_streak_label">Днів без зриву</string>
+    <string name="home_check_in">Відмітитись</string>
+    <string name="home_relapse">Зрив</string>
+    <string name="home_syncing">Синхронізація…</string>
+
+    <string name="community_title">Спільнота</string>
+    <string name="community_subtitle">Поради та підтримка від інших</string>
+    <string name="community_support">Підтримати</string>
+    <string name="community_refresh">Оновити</string>
+
+    <string name="analysis_title">Аналіз прогресу</string>
+    <string name="analysis_subtitle">Відстежуй свої досягнення</string>
+    <string name="analysis_money_saved">Заощаджено: %1$s грн</string>
+    <string name="analysis_insights">Локальні інсайти</string>
+    <string name="analysis_no_insights">Поки що немає інсайтів.</string>
+
+    <string name="analysis_empty">Натисніть «Оновити», щоб перерахувати статистику з локальної історії.</string>
+
+    <string name="profile_title">Профіль</string>
+    <string name="profile_notifications">Сповіщення</string>
+    <string name="profile_achievements">Досягнення</string>
+    <string name="profile_log_out">Вийти</string>
+    <string name="profile_not_signed_in">Не ввійшли в акаунт</string>
+
+    <string name="achievement_day_1">1 день</string>
+    <string name="achievement_day_7">7 днів</string>
+    <string name="achievement_day_30">30 днів</string>
+
+    <string name="action_cancel">Скасувати</string>
+    <string name="relapse_reason_label">Причина (обов’язково)</string>
+
+    <string name="profile_achievement_unlocked">Розблоковано</string>
+    <string name="profile_achievement_locked">Заблоковано · потрібно %1$d+ днів серії</string>
+</resources>

@@ -1,0 +1,12 @@
+# Android тимчасові файли
+android/build/
+android/app/build/
+android/.gradle/
+android/local.properties
+android/.idea/
+android/**/*.dex
+
+# Python тимчасові файли та секрети
+backend/.venv/
+backend/__pycache__/
+backend/.env

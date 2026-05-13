@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Health Tracker</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_community">Community</string>
+    <string name="nav_analysis">Analysis</string>
+    <string name="nav_profile">Profile</string>
+
+    <string name="home_title">Stay in control</string>
+    <string name="home_streak_label">Days without relapse</string>
+    <string name="home_check_in">Check in</string>
+    <string name="home_relapse">Relapse</string>
+    <string name="home_syncing">Syncing…</string>
+
+    <string name="community_title">Community</string>
+    <string name="community_subtitle">Tips and support from others</string>
+    <string name="community_support">Support</string>
+    <string name="community_refresh">Refresh</string>
+
+    <string name="analysis_title">Progress analysis</string>
+    <string name="analysis_subtitle">Track your achievements</string>
+    <string name="analysis_money_saved">Saved: %1$s UAH</string>
+    <string name="analysis_insights">On-device insights</string>
+    <string name="analysis_no_insights">No insights yet.</string>
+
+    <string name="analysis_empty">Tap Refresh to update stats from your local history.</string>
+
+    <string name="profile_title">Profile</string>
+    <string name="profile_notifications">Notifications</string>
+    <string name="profile_achievements">Achievements</string>
+    <string name="profile_log_out">Log out</string>
+    <string name="profile_not_signed_in">Not signed in</string>
+
+    <string name="achievement_day_1">1 day</string>
+    <string name="achievement_day_7">7 days</string>
+    <string name="achievement_day_30">30 days</string>
+
+    <string name="action_cancel">Cancel</string>
+    <string name="relapse_reason_label">Reason (required)</string>
+
+    <string name="profile_achievement_unlocked">Unlocked</string>
+    <string name="profile_achievement_locked">Locked · need %1$d+ streak days</string>
+</resources>
